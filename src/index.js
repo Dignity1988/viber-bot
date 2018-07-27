@@ -105,11 +105,10 @@ if (process.env.NOW_URL || process.env.HEROKU_URL) {
 }
 
 
+
 // Multiple messages
 const UrlMessage = require('viber-bot').Message.Url;
-bot.sendMessage(  [
-      'ep103oFN2z0=','','',''
-    ], [
+bot.sendMessage( 'LYSU0u0SG11B9gK9mFrcjw==', [
 	new TextMessage("Here's the product you've requested:"),
 	new UrlMessage("http://my.ecommerce.site/product1"),
 	new TextMessage("Shipping time: 1-3 business days")
