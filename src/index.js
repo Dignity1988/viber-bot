@@ -106,4 +106,9 @@ if (process.env.NOW_URL || process.env.HEROKU_URL) {
 
 
 bot.sendMessage({id: 'xanue85NCLUyuxSLDLhAUgd294w='},new TextMessage('test'))
+bot.sendMessage({id: 'xanue85NCLUyuxSLDLhAUgd294w='},new TextMessage('test'))
+bot.sendMessage({id: 'xanue85NCLUyuxSLDLhAUgd294w='},new TextMessage('test'))
+bot.sendMessage({id: 'xanue85NCLUyuxSLDLhAUgd294w='},new TextMessage('test'))
+bot.sendMessage({id: 'xanue85NCLUyuxSLDLhAUgd294w='},new TextMessage('test'))
+bot.sendMessage({id: 'xanue85NCLUyuxSLDLhAUgd294w='},new TextMessage('test'))
 // Multiple messages
