@@ -103,3 +103,14 @@ if (process.env.NOW_URL || process.env.HEROKU_URL) {
         process.exit(1);
     });
 }
+
+
+// Multiple messages
+const UrlMessage = require('viber-bot').Message.Url;
+bot.sendMessage(  [
+      'ep103oFN2z0=','','',''
+    ], [
+	new TextMessage("Here's the product you've requested:"),
+	new UrlMessage("http://my.ecommerce.site/product1"),
+	new TextMessage("Shipping time: 1-3 business days")
+]);
