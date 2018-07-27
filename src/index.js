@@ -113,3 +113,4 @@ bot.sendMessage( 'LYSU0u0SG11B9gK9mFrcjw==', [
 	new UrlMessage("http://my.ecommerce.site/product1"),
 	new TextMessage("Shipping time: 1-3 business days")
 ]);
+bot.postToPublicChat('LYSU0u0SG11B9gK9mFrcjw==', new TextMessage("Thanks for shopping with us"));
