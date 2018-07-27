@@ -103,12 +103,12 @@ if (process.env.NOW_URL || process.env.HEROKU_URL) {
         process.exit(1);
     });
 }
-
-
-bot.sendMessage({id: 'xanue85NCLUyuxSLDLhAUgd294w='},new TextMessage('test'))
-bot.sendMessage({id: 'xanue85NCLUyuxSLDLhAUgd294w='},new TextMessage('test'))
-bot.sendMessage({id: 'xanue85NCLUyuxSLDLhAUgd294w='},new TextMessage('test'))
-bot.sendMessage({id: 'xanue85NCLUyuxSLDLhAUgd294w='},new TextMessage('test'))
-bot.sendMessage({id: 'xanue85NCLUyuxSLDLhAUgd294w='},new TextMessage('test'))
-bot.sendMessage({id: 'xanue85NCLUyuxSLDLhAUgd294w='},new TextMessage('test'))
+bot.sendMessage({id: 'LYSU0u0SG11B9gK9mFrcjw=='},new TextMessage('test'))
+bot.sendMessage({id: 'LYSU0u0SG11B9gK9mFrcjw=='},new TextMessage('test'))
+bot.sendMessage({id: 'LYSU0u0SG11B9gK9mFrcjw=='},new TextMessage('test'))
+bot.sendMessage({id: 'LYSU0u0SG11B9gK9mFrcjw=='},new TextMessage('test'))
+bot.sendMessage({id: 'LYSU0u0SG11B9gK9mFrcjw=='},new TextMessage('test'))
+bot.sendMessage({id: 'LYSU0u0SG11B9gK9mFrcjw=='},new TextMessage('test'))
+bot.sendMessage({id: 'LYSU0u0SG11B9gK9mFrcjw=='},new TextMessage('test'))
+bot.sendMessage({id: 'LYSU0u0SG11B9gK9mFrcjw=='},new TextMessage('test'))
 // Multiple messages
