@@ -105,5 +105,5 @@ if (process.env.NOW_URL || process.env.HEROKU_URL) {
 }
 
 
-bot.sendMessage({id: 'LYSU0u0SG11B9gK9mFrcjw=='},new TextMessage('test'))
+bot.sendMessage({id: 'U0MegKRdNXE='},new TextMessage('test'))
 // Multiple messages
